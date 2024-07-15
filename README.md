@@ -7,10 +7,10 @@ This repository contains all the essential projects required to complete the cor
 ### [Libft](https://github.com/RogerioProgramador/42-libft.git)
 The Libft project involves creating a custom library in C, replicating standard functions from the C library, and implementing additional useful functions. This project strengthens your understanding of fundamental C programming concepts and prepares you for future projects.
 
-### [ft_printf](https://github.com/RogerioProgramador/42-ft_printf.git)
+### [Printf](https://github.com/RogerioProgramador/42-ft_printf.git)
 In this project, you will recreate the `printf` function from the C standard library. This involves handling various data types, flags, and formatting options, improving your skills in variadic functions and formatted output.
 
-### [get_next_line](https://github.com/RogerioProgramador/42-get_next_line.git)
+### [Get_next_line](https://github.com/RogerioProgramador/42-get_next_line.git)
 The goal of this project is to implement a function that reads a line from a file descriptor, one at a time. It helps you practice dynamic memory allocation and file I/O operations in C.
 
 ### [Minitalk](https://github.com/RogerioProgramador/42-minitalk.git)
@@ -31,7 +31,7 @@ Cub3D is a 3D game engine project inspired by Wolfenstein 3D. You will implement
 ### [Inception](https://github.com/RogerioProgramador/42-inception.git)
 Inception focuses on setting up a multi-container Docker environment. You will create and manage containers for various services, gaining skills in containerization and orchestration.
 
-### [one_file_printf](https://github.com/RogerioProgramador/42-one_file_printf.git)
+### [One_file_printf](https://github.com/RogerioProgramador/42-one_file_printf.git)
 This project is similar to ft_printf but with additional constraints, requiring you to implement the function in a single file. It challenges your ability to write concise and efficient code.
 
 ## About 42

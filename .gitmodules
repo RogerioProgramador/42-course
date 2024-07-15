@@ -1,0 +1,30 @@
+[submodule "42-ft_printf"]
+	path = 42-ft_printf
+	url = https://github.com/RogerioProgramador/42-ft_printf.git
+[submodule "42-get_next_line"]
+	path = 42-get_next_line
+	url = https://github.com/RogerioProgramador/42-get_next_line.git
+[submodule "42-libft"]
+	path = 42-libft
+	url = https://github.com/RogerioProgramador/42-libft.git
+[submodule "42-inception"]
+	path = 42-inception
+	url = https://github.com/RogerioProgramador/42-inception.git
+[submodule "42-cub3d"]
+	path = 42-cub3d
+	url = https://github.com/RogerioProgramador/42-cub3d.git
+[submodule "42-philosophers"]
+	path = 42-philosophers
+	url = https://github.com/RogerioProgramador/42-philosophers.git
+[submodule "42-minishell"]
+	path = 42-minishell
+	url = https://github.com/RogerioProgramador/42-minishell.git
+[submodule "42-push_swap"]
+	path = 42-push_swap
+	url = https://github.com/RogerioProgramador/42-push_swap.git
+[submodule "42-minitalk"]
+	path = 42-minitalk
+	url = https://github.com/RogerioProgramador/42-minitalk.git
+[submodule "42-one_file_printf"]
+	path = 42-one_file_printf
+	url = https://github.com/RogerioProgramador/42-one_file_printf.git
